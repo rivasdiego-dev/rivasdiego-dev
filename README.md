@@ -12,7 +12,6 @@ I am a fast learner developer. I strongly believe that everyday you can learn so
 
 * 🧠 I am a `Student` at [Computer Engineering](https://uca.edu.sv/carrera/ingenieria-informatica/) in [Universidad Centroamericana José Simeón Cañas UCA](https://uca.edu.sv/)
 - 🌱 I’m currently learning [AngularJS](https://angular.io/)
-* 👩‍💻 **Currently working on** `Frontend Development`
 - 📫  You can contact me at [rivasdiego@gmail.com](mailto:rivasdiego@gmail.com)
 * 🤝  I’m looking to collaborate on web projects
 - 🌍  I'm based in El Salvador
