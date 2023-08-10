@@ -1,21 +1,17 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div id="user-content-toc">
-    <summary><h1 style="display: inline-block">Hi there, I'm Diego!👋</h1></summary>
-</div>
+<h1 style="display: inline-block">Hi there, I'm Diego!👋</h1>
 
 I am a fast learner developer. I strongly believe that everyday you can learn something new, but it's your choice to do so. I love creating "pixel perfect" web interfaces and friendly interfaces.
 
 ## About me
 
-<picture> <img align="right" src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47tuy5onqmd4i9uh165z0yhb6c943jp2uoje9oo31t&ep=v1_gifs_search&rid=giphy.gif&ct=g" width=250px> </picture>
-
 * 🧠 I am a `Student` at [Computer Engineering](https://uca.edu.sv/carrera/ingenieria-informatica/) in [Universidad Centroamericana José Simeón Cañas UCA](https://uca.edu.sv/)
 - 🌱 I’m currently learning [AngularJS](https://angular.io/)
-- 📫  You can contact me at [rivasdiego@gmail.com](mailto:rivasdiego@gmail.com)
-* 🤝  I’m looking to collaborate on web projects
-- 🌍  I'm based in El Salvador
-* 🧾 `"One day at a time"`
+* 📫  You can contact me at [rivasdiego@gmail.com](mailto:rivasdiego@gmail.com)
+- 🤝  I’m looking to collaborate on web projects
+* 🌍  I'm based in El Salvador
+- 🧾 `"One day at a time"`
 
 <br>
 
