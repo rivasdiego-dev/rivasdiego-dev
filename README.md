@@ -2,7 +2,7 @@
 
 <h1 style="display: inline-block">Hi there, I'm Diego!👋</h1>
 
-I am a fast learner developer. I strongly believe that everyday you can learn something new, but it's your choice to do so. I love creating "pixel perfect" web interfaces and friendly interfaces.
+I am a fast learner developer. I strongly believe that everyday you can learn something new, but it's your choice to do so. I love creating user friendly "pixel perfect" web interfaces.
 
 ## About me
 
