@@ -2,14 +2,14 @@
 
 <h1 style="display: inline-block">Hi there, I'm Diego!👋</h1>
 
-I am a fast learner developer. I strongly believe that everyday you can learn something new, but it's your choice to do so. I love creating user friendly "pixel perfect" web interfaces.
+I am a fast learner developer. I strongly believe that everyday you can learn something new, but it's your choice to do so. I love creating user friendly "pixel perfect" web interfaces and clean and robust backends.
 
 ## About me
 
 * 🧠 I am a `Student` at [Computer Engineering](https://uca.edu.sv/carrera/ingenieria-informatica/) in [Universidad Centroamericana José Simeón Cañas UCA](https://uca.edu.sv/)
-- 🌱 I’m currently learning [Astro](https://astro.build/)
+- 🌱 I’m currently learning [Flutter](https://flutter.dev/)
 * 📫  You can contact me at [rivasdiego@gmail.com](mailto:rivasdiego@gmail.com)
-- 🤝  I’m looking to collaborate on web projects
+- 🤝  I’m looking to collaborate on web either as front or backend dev
 * 🌍  I'm based in El Salvador
 - 🧾 `"One day at a time"`
 
@@ -28,7 +28,6 @@ I am a fast learner developer. I strongly believe that everyday you can learn so
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 <a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /></a>
 <a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
